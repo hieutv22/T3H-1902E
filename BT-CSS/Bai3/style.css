@@ -1,0 +1,9 @@
+#menu ul li{
+    background: red;
+    color: white;
+}
+
+#social ul li > p{
+    background: red;
+    color: purple;
+}
